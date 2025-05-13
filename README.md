@@ -66,9 +66,10 @@ The goal is to group customers with similar behavior to enable **personalized ma
 
 ---
 
-## ▶️ How to Run
+## 📁 Dataset
 
-1. Clone the repo:
-```bash
-git clone https://github.com/your-username/customer-segmentation.git
-cd customer-segmentation
+**Source**: [Online Retail Dataset – UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/online+retail)
+
+**Description**:  
+Transnational dataset with transactions occurring between **01/12/2010 and 09/12/2011** for a **UK-based non-store online retail company**.  
+The company primarily sells unique all-occasion gifts, with many customers being wholesalers.
